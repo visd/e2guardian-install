@@ -1,0 +1,6 @@
+cache_replacement_policy heap LFUDA
+max_open_disk_fds 0
+maximum_object_size 20480 KB
+cache deny all
+max_filedescriptors 65536
+pipeline_prefetch on
